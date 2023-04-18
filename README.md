@@ -21,7 +21,8 @@ A Next Shipping é uma empresa que está sempre à frente em termos de tecnologi
 
 ## Contato
 Entre em contato conosco para saber mais sobre nossos serviços e como podemos ajudar sua empresa a expandir seus negócios no mercado internacional.
-Endereço: Rua Jorge Tzachel, 350 . Bairro Fazenda . Itajai - SC
-Telefone: (47) 2125-0252
-E-mail: contato@nextshipping.com.br
-Website: https://www.nextshipping.com.br/
+
+**Endereço:** Rua Jorge Tzachel, 350 . Bairro Fazenda . Itajai - SC
+**Telefone:** (47) 2125-0252
+**E-mail:** contato@nextshipping.com.br
+**Website:** https://www.nextshipping.com.br/
